@@ -14,8 +14,11 @@ Games should be purely client-side and be able to run on a local server without 
 **ARCADE**
 
 - [Circus Charlie](https://github.com/eugenioclrc/circushtml5)
+- [Missile](https://missile-game.bwhmather.com/)
+- [Sinuous](http://www.sinuousgame.com/)
 - [Space Invaders](https://github.com/StrykerKKD/SpaceInvaders)
 - [Space Crusade](https://github.com/Loopeex/space-crusade)
+- [Swoop](http://www.sinuousgame.com/)
 
 **CARD**
 
@@ -28,10 +31,12 @@ Games should be purely client-side and be able to run on a local server without 
 
 **PUZZLE**
 
+- [God will be watching](http://www.deconstructeam.com/games/gods-will-be-watching/)
 - [Monkey Rally](https://github.com/antila/ludum-dare-28)
 
 **RACING**
 
+- [FreeRiderHD](https://www.freeriderhd.com/)
 - [HexGL](https://github.com/BKcore/HexGL)
 - [Chacket Valleyparker: Drill Bunny](https://github.com/DreamShowAdventures/LudumDare29)
 
