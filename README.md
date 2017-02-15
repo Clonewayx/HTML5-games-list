@@ -20,10 +20,12 @@ Games should be purely client-side and be able to run on a local server without 
 - [Sinuous](https://github.com/lzia/sinuous)
 - [Space Invaders](https://github.com/StrykerKKD/SpaceInvaders)
 - [Space Crusade](https://github.com/Loopeex/space-crusade)
+- [Zedinvaders](https://github.com/salvatorecapolupo/zedinvaders)
 
-**CARD**
+**BOARD GAME**
 
 - [Couple-quest](https://github.com/Clonewayx/Couple-quest)
+- [3D Hartwig chess set](https://github.com/juliangarnier/3D-Hartwig-chess-set)             
 
 
 **PLATFORMER**
